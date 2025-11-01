@@ -19,9 +19,6 @@ It provides a smooth and clean UI with sections for:
 | ![Home](assets/scre<img width="290" height="615" alt="Android Emulator - Pixel_3_5554 10_30_2025 12_55_22 AM" src="https://github.com/user-attachments/assets/5545d2ad-d64a-4563-83d1-58b276bc63dd" />
 enshots/home.png) | ![Activity](assets/screen<img width="290" height="615" alt="Android Emulator - Pixel_3_5554 10_30_2025 12_55_36 AM" src="https://github.com/user-attachments/assets/7648a9eb-739b-46de-b863-6c5c41441477" >
 
-
-*(Make sure you have these images saved in `assets/screenshots/` folder in your project.)*
-
 ---
 
 ## ✨ Features
